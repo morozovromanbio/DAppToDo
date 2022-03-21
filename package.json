@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
+    "@truffle/contract": "^4.5.1",
+    "bootstrap": "^3.4.1",
+    "express": "^4.17.3",
+    "solc": "^0.8.12"
+  },
+  "name": "step1",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "web3": "^1.7.1"
+  }
+}
